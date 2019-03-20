@@ -1,0 +1,53 @@
+html, body {
+ margin: 0;
+}
+
+.title {
+  font-size: 56px;
+  font-family: Playfair Display;
+  color: #AF7663;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#navbar {
+  font-family: Lato;
+  font-weight: 300;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: #AF7663;
+  padding: 10px;
+  text-decoration: none;
+}
+
+
+
+#container {
+  display: inline-flex;
+  justify-content: center;
+  padding: 50px 200px;
+  align-items: flex-start;
+  background-color: white;
+  margin: 0;
+}
+
+.home {
+  padding: 25px 25px 10px 90px;
+}
+
+#text {
+  background-color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-family: Lato;
+  font-weight: 200;
+  padding: 0;
+  margin: 0;
+}
